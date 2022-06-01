@@ -1,15 +1,16 @@
 # datasciencecoursera
 datasciencecoursera assignment
+
 ## This is a markdown file
 
-print("This file was created for coursera datascience assignment")
+This text is created for the coursera datascience assignment"
 
-print("It was created within RStudio")
+It was created within RStudio
 
-print("And pushed on GitHub")
+And pushed on GitHub
 
-print("the follwing text is created for the assignment")
+The follwing text is created for the assignment
 
-print("## This is a markdown file")
+## This is a markdown file
 
-print("## By StougMeister")
+## By StougMeister
